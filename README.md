@@ -1,4 +1,6 @@
 Features
+![image](https://github.com/user-attachments/assets/f18d6186-ab3f-4df9-923e-d1f1c54a7657)
+
 User-Friendly Interface: Solara offers a clean and intuitive interface that makes it easy to load and inject scripts with just a few clicks.
 Wide Compatibility: Supports a broad range of Roblox scripts and is regularly updated to ensure compatibility with the latest Roblox updates.
 High Performance: Optimized for speed, Solara injects scripts quickly and efficiently without causing lag or crashes.
@@ -18,4 +20,3 @@ Launch Roblox: Start Roblox and join a game.
 Open Solara: Run Solara and wait for it to initialize.
 Load Script: Click on the "Load Script" button and select the script you want to inject.
 Inject Script: Click on the "Inject" button to run the script in your Roblox game.
-![image](https://github.com/user-attachments/assets/f18d6186-ab3f-4df9-923e-d1f1c54a7657)
