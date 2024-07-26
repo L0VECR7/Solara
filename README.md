@@ -18,3 +18,4 @@ Launch Roblox: Start Roblox and join a game.
 Open Solara: Run Solara and wait for it to initialize.
 Load Script: Click on the "Load Script" button and select the script you want to inject.
 Inject Script: Click on the "Inject" button to run the script in your Roblox game.
+![image](https://github.com/user-attachments/assets/f18d6186-ab3f-4df9-923e-d1f1c54a7657)
